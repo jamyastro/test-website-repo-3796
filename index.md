@@ -1,6 +1,8 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Stimuliastro
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+**Stimuli** est une association de **montreurs d'étoiles** .
+
+![soirée1](http://stimuliastro.org/wp-content/uploads/2020/12/cropped-termes-2-1536x696.jpg)
