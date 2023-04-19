@@ -5,9 +5,10 @@ L’association **Stimuli** propose des animations autour de l’astronomie à d
 
 ---
 
-`\begin{center}`
+`\begin{center}
 **Des soirées d’observation du ciel**: « Les étoiles de votre jardin »
-`\end{center}`
+\end{center}`
+
 ![soirée2](http://stimuliastro.org/wp-content/uploads/2020/12/soiree1-768x576.jpg)
 
 
