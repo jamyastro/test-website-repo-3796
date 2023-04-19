@@ -1,16 +1,12 @@
 ---
 title: Activités
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+L’association **Stimuli** propose des animations autour de l’astronomie à destination de tous les publics.
 
-## Nos activités
+**Des soirées d’observation du ciel** : « Les étoiles de votre jardin »
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+**Des ateliers pédagogiques** : « Les ateliers du ciel »
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+**Une exposition de photographies** originales du ciel : « Les yeux au ciel »
 
+**Un spectacle jeune public** adaptable maternelles ou primaires : « Dans le ciel il y a … »
