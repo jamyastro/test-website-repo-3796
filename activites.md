@@ -3,6 +3,9 @@ title: Activités
 ---
 L’association **Stimuli** propose des animations autour de l’astronomie à destination de tous les publics.
 
+---
+
+
 
 **Des soirées d’observation du ciel**: « Les étoiles de votre jardin »
 
